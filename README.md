@@ -1,7 +1,7 @@
 Hi there, I am balaprasad 👋
 
 
-"ABOUT ME"
+**ABOUT ME**
 
 - 🏅 Completed the data analyst and data science curriculum from etl hive pune.
 - 🏆 I am a data analyst certified by ibm as well
